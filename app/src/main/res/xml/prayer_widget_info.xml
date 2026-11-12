@@ -7,4 +7,4 @@
     android:initialLayout="@layout/prayer_widget"
     android:resizeMode="horizontal|vertical"
     android:widgetCategory="home_screen"
-    android:description="مواقيت الصلاة والساعة والتاريخ لمدينة القاهرة" />
+android:description="@string/prayer_widget_description" />
